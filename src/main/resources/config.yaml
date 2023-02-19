@@ -1,0 +1,6 @@
+http:
+  port: "8081"
+sfdc:
+  username: "narendrasf@gmail.com"
+  password: "SF@Mule#1234"
+  token: "Lskc5yiaG2Lf5xgkCvGdKuBIZ"
